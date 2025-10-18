@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+pdfplumber
+sqlalchemy
+psycopg2-binary
+scikit-learn
+statsmodels
+python-dotenv
